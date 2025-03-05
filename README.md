@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nihal! <br/><a href="https://[github.com/iamnihal07]"> Data Analyst</a>, <a href="https://[www.linkedin.com/in/syed-nihal/]">Financial Analyst </a></h1>
+<h1>Hi, I'm Nihal! <br/><a href="https://[github.com/iamnihal07]"> Data Analyst</a>, <a href="https://[www.linkedin.com/in/syed-nihal/]"> </a></h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2> 
 
